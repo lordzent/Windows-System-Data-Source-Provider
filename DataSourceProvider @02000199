@@ -35,7 +35,7 @@ namespace System.Windows.Data
 			this._initialLoadCalled = true;
 			this.BeginQuery();
 		}
-
+ 
 		/// <summary>Gets or sets a value that indicates whether to prevent or delay the automatic loading of data.</summary>
 		/// <returns>
 		///     <see langword="false" /> to prevent or delay the automatic loading of data; otherwise, <see langword="true" />. The default value is <see langword="true" />.</returns>
